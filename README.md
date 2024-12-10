@@ -31,4 +31,19 @@ Ensure the following Python libraries are installed:
 - `opencv-python`
 - `matplotlib`
 
+---
+
+### **Example Output**
+<table>
+  <tr>
+    <td><strong>Input Image</strong></td>
+    <td><strong>Output Image</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/real-ojaswi/correct-image-distortion/blob/main/images/board_1.jpeg" alt="Input Image" width="300"></td>
+    <td><img src="https://github.com/real-ojaswi/correct-image-distortion/blob/main/output/board_corrected_p2p.jpg" alt="Output Image" width="300"></td>
+  </tr>
+</table>
+
+
 
